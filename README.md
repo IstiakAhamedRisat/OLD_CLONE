@@ -19,3 +19,9 @@
  cd OLD_CLONE
 
  python R.B.py
+
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+Note: (This Tools Are Paid, So You Need Permission To Use This Tools)
