@@ -1,21 +1,21 @@
 # OLD_CLONE
 
-✳️ pkg update
+ pkg update
 
-✳️ pkg upgrade
+ pkg upgrade
 
-✳️ pkg install python
+ pkg install python
 
-✳️ pkg install python2
+ pkg install python2
 
-✳️ pip2 install requests
+ pip2 install requests
 
-✳️ pip2 install mechanize
+ pip2 install mechanize
 
-✳️ pkg install git
+ pkg install git
 
-✳️ git clone https://github.com/IstiakAhamedRisat/OLD_CLONE
+ git clone https://github.com/IstiakAhamedRisat/OLD_CLONE
 
-✳️ cd OLD_CLONE
+ cd OLD_CLONE
 
-✳️ python R.B.py
+ python R.B.py
