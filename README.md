@@ -8,9 +8,9 @@
 
  pkg install python2
 
- pip2 install requests
+ pip install requests
 
- pip2 install mechanize
+ pip install mechanize
 
  pkg install git
 
